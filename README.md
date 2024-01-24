@@ -53,8 +53,6 @@ const data = {
 </GGEditor>;
 ```
 
-### 脑图
-
 [![Edit GGEditor - Mind](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/ggeditor-mind-2262q?fontsize=14&hidenavigation=1&theme=dark)
 
 ```jsx
