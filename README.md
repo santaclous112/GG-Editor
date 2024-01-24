@@ -1,4 +1,3 @@
-[English](README.en-US.md)
 
 <h1 align="center">GG-Editor</h1>
 
