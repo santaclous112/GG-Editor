@@ -1,6 +1,6 @@
 [English](README.en-US.md)
 
-<h1 align="center">GGEditor</h1>
+<h1 align="center">GG-Editor</h1>
 
 <div align="center">
 
